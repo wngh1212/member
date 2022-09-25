@@ -22,18 +22,18 @@
 ![unknown7](https://user-images.githubusercontent.com/88926634/167055597-8d4098ec-9f9c-470a-a78e-77a8141f2bc3.png)
 로그인에 성공했다는 알림이 뜬다.
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/88926634/170395519-1b07cec3-066b-43bb-b798-1317289723f5.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/88926634/170395918-3ed962f2-caf1-45e2-a8c2-cd174508a427.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/88926634/170395918-3ed962f2-caf1-45e2-a8c2-cd174508a427.png"><br>
 그리곤 바로 간단한 글상자와 내용을 적을 수 있는 화면이 뜬다 여기에 글을쓰고 버튼이나 엔터를 누르면
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/88926634/170396011-250d3d64-18e7-4409-a4b0-3dd23559c95a.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/88926634/170396011-250d3d64-18e7-4409-a4b0-3dd23559c95a.png"><br>
 이런 화면이 뜨고 데이터베이스를 확인하면<br>
 <img width="209" alt="image" src="https://user-images.githubusercontent.com/88926634/170396132-eb84951b-a153-4bf3-b15c-71bcd397fd9a.png"><br>
 글박스의 내용과 이름만 가져오게 된 것을 볼 수 있다.
 그이후 다시 글을 작성할 수 있는 메인 화면으로 돌아올 수 있게 되는데
 상단 메뉴바의 로그아웃을 누르면..
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/88926634/170396314-783bea7a-876b-49ce-a0b4-cd9261054f3b.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/88926634/170396314-783bea7a-876b-49ce-a0b4-cd9261054f3b.png"><br>
 세션을 언셋함과 동시에
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/88926634/170396327-20076594-27f1-43ad-940a-8b509b1ddf99.png">
 로그아웃을 알리는 창이 뜨고 로그인 화면으로 돌아오게된다.
-img width="960" alt="image" src="https://user-images.githubusercontent.com/88926634/170396401-ba6d96f4-f5d4-40f4-a74e-7dc046f91d6e.png">
-img width="708" alt="image" src="https://user-images.githubusercontent.com/88926634/170396466-b7633543-5ec6-401c-8f16-14dcce9571d7.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/88926634/170396401-ba6d96f4-f5d4-40f4-a74e-7dc046f91d6e.png">
+<img width="708" alt="image" src="https://user-images.githubusercontent.com/88926634/170396466-b7633543-5ec6-401c-8f16-14dcce9571d7.png">
 
