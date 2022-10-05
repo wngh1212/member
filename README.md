@@ -1,4 +1,4 @@
-# member
+# nomartic - membership join
 
 ![unknown](https://user-images.githubusercontent.com/88926634/167055503-9e574a05-1b35-49a2-b583-3d9c185f0288.png)
 인덱스 화면은 회원가입으로 시작된다.
